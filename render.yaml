@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: voicebill-saas
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PRO_STRIPE_LINK
+        sync: false
+      - key: PRO_RAZORPAY_LINK
+        sync: false
