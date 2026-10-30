@@ -1,10 +1,10 @@
 {
   "name": "voicebill-mvp",
   "version": "1.0.0",
-  "description": "VoiceBill — Speak a 15-second voice note, send a branded quote or invoice with instant UPI QR & Stripe payment links + WhatsApp overdue chasers.",
-  "main": "src/server.js",
+  "description": "VoiceBill \u2014 Speak a 15-second voice note, send a branded quote or invoice with instant UPI QR & Stripe payment links + WhatsApp overdue chasers.",
+  "main": "start.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node start.js",
     "dev": "node src/server.js"
   },
   "dependencies": {
