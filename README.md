@@ -1,3 +1,11 @@
+# VoiceBill — free voice bill maker for Indian shops
+
+### 👉 [Try it free — no signup needed](https://voicebill-saas.onrender.com/free-bill)
+
+Speak your items ("do kilo chawal 150, ek lifebuoy 45") and get a GST bill
+with a UPI QR in about 30 seconds. Free bill maker, no account required.
+
+---
 # VoiceBill MVP — Speak a 15s Note, Send a Paid Invoice
 
 VoiceBill is a full-stack Micro-SaaS MVP built for **solo founders who want fast recurring revenue** across **Global ($ USD / Stripe)** and **India (₹ INR / Dynamic UPI QR + GST)** markets.
